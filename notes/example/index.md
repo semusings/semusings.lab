@@ -6,7 +6,7 @@ header: '© Software Engineering Musings - <https://semusings.dev/> - subscribe 
 footer: ''
 ---
 
-# Sliding Window
+# Example Video
 
 ---
 
