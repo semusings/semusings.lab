@@ -2,4 +2,4 @@
 nvm install
 nvm use
 npm install
-npm run start
+npm run build
