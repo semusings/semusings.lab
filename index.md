@@ -5,12 +5,12 @@ This repository houses the source code for all blog posts & vidoes published on 
 ---
 
 ## Published Videos
-- Lesson 1 - Good Programming Principles _[📺](https://youtube.com/@semusings) [📄](notes/good-programming-principles/) - 04/24/2025_
+- Lesson 1 - Good Programming Principles _[📺](https://youtube.com/@semusings) [📄](slides/good-programming-principles/) - 04/24/2025_
 
 ---
 
 ## Draft Videos
-- [Java (JEP-502) : Stable Values](codes/java-jep-502-stable-values/)
+- [Java (JEP-502) : Stable Values](slides/java-jep-502-stable-values/)
 
 ---
 
