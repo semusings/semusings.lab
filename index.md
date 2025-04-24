@@ -5,7 +5,7 @@ This repository houses the source code for all blog posts & vidoes published on 
 ---
 
 ## Published Videos
-- [Example Video](notes/example/index.md) &nbsp;&nbsp;📅 _04/10/2023_
+- Lesson 1 - Good Programming Principles _[📺](https://youtube.com/@semusings) [📄](notes/good-programming-principles/index.md) - 04/24/2025_
 
 ---
 
