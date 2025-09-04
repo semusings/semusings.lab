@@ -2,12 +2,12 @@
   "marp": {
     "inputDir": "./",
     "output": "./public",
-    "themeSet": "./etc/marp/themes"
+    "themeSet": "./data/etc/marp/themes"
   },
   "scripts": {
-    "start": "PORT=5050 marp --theme-set ./etc/marp/themes --theme semusings -c ./etc/marp/marp.config.js -s ./",
+    "start": "PORT=5050 marp --theme-set ./data/etc/marp/themes --theme semusings -c ./data/etc/marp/marp.config.js -s ./",
     "clean": "rm -rf public",
-    "build": "marp --theme-set ./etc/marp/themes --theme semusings -c ./etc/marp/marp.config.js  -I ./ -o ./public"
+    "build": "marp --theme-set ./data/etc/marp/themes --theme semusings -c ./data/etc/marp/marp.config.js  -I ./ -o ./public"
   },
   "dependencies": {
     "@kazumatu981/markdown-it-kroki": "^1.3.5",

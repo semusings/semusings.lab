@@ -6,7 +6,7 @@ header: '© Software Engineering Musings - <https://semusings.dev/> - subscribe 
 footer: ''
 ---
 
-# Stable Values in Java 25
+# Project Loom: Virtual Threads, Structured Concurrency and Scoped Values
 
 ---
 
