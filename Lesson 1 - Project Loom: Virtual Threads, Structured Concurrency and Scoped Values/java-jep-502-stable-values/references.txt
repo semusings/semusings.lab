@@ -1,3 +1,0 @@
-https://openjdk.org/jeps/502
-https://bugs.openjdk.org/projects/JDK/issues/
-https://www.reddit.com/r/java/comments/1i7dtld/jep_502_stable_values_preview/

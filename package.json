@@ -2,7 +2,7 @@
   "marp": {
     "inputDir": "./",
     "output": "./public",
-    "themeSet": "./data/etc/marp/themes"
+    "themeSet": ".data/etc/marp/themes"
   },
   "scripts": {
     "start": "PORT=5050 marp --theme-set .data/etc/marp/themes --theme semusings -c .data/etc/marp/marp.config.js -s ./",
